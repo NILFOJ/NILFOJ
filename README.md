@@ -1,16 +1,17 @@
-### Hi there 👋
+💼 Experiência Profissional
 
-<!--
-**nilfoj/nilfoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Administrador de Ambiente Virtuais II – 3 Anos.
+<br>
 
-Here are some ideas to get you started:
+🎓 Formação Acadêmica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Graduado em Design Gráfico – Instituto Federal da Paraíba (IFPB) - Campus Cabedelo;
+- Graduando em Análise e Desenvolvimento de Sistemas – Universidade Descomplica.
+<br>
+
+📚 Projetos e Estudos
+
+- Desenvolvimento de Aplicações em C# (CSharp);
+- Desenvolvimento de Páginas e Aplicações Web em HTML e CSS;
+- Desenvolvimento de Projetos em Figma – UX e UI;
+- Desenvolvimento de Jogos com Godot Engine usando C# (CSharp);
