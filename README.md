@@ -1,11 +1,11 @@
 💼 Experiência Profissional
 
-- Administrador de Ambiente Virtuais II – 3 Anos.
+- Administrador de Ambiente Virtuais II – 2 Anos.
 <br>
 
 🎓 Formação Acadêmica
 
-- Graduado em Design Gráfico – Instituto Federal da Paraíba (IFPB) - Campus Cabedelo;
+- Graduando em Design Gráfico – Instituto Federal da Paraíba (IFPB) - Campus Cabedelo;
 - Graduando em Análise e Desenvolvimento de Sistemas – Universidade Descomplica.
 <br>
 
