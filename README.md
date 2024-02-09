@@ -9,9 +9,13 @@
 - Graduando em Análise e Desenvolvimento de Sistemas – Universidade Descomplica.
 <br>
 
-📚 Projetos e Estudos
+📚 Estudos
 
 - Desenvolvimento de Aplicações em C# (CSharp);
 - Desenvolvimento de Páginas e Aplicações Web em HTML e CSS;
 - Desenvolvimento de Projetos em Figma – UX e UI;
 - Desenvolvimento de Jogos com Godot Engine usando C# (CSharp);
+
+💻 Projetos
+
+- Programa Desenvolve Boticário.
