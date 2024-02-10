@@ -17,6 +17,3 @@
 - Desenvolvimento de Jogos com Godot Engine usando C# (CSharp);
 
 <br>
-💻 Projetos
-
-- Programa Desenvolve Boticário.
