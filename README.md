@@ -1,6 +1,6 @@
 💼 Experiência Profissional
 
-- Administrador de Ambiente Virtuais II – 2 Anos.
+- Analista Academico – 2 Anos.
 <br>
 
 🎓 Formação Acadêmica
