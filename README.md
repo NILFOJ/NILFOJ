@@ -1,7 +1,7 @@
 💼 Experiência Profissional
 
 - Estágio em Design Gráfico (6 Meses);
-- Auxiliar de Design Dgital (1 Ano)
+- Auxiliar de Design Digital (1 Ano)
 - Analista Acâdemico – 2 Anos (1 Ano e 6 Meses).
 <br>
 
