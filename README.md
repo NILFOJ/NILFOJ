@@ -1,6 +1,8 @@
 💼 Experiência Profissional
 
-- Analista Academico – 2 Anos.
+- Estágio em Design Gráfico (6 Meses);
+- Auxiliar de Design Dgital (1 Ano)
+- Analista Acâdemico – 2 Anos (1 Ano e 6 Meses).
 <br>
 
 🎓 Formação Acadêmica
