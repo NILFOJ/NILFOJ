@@ -2,7 +2,7 @@
 
 - Estágio em Design Gráfico (6 Meses);
 - Auxiliar de Design Digital (1 Ano);
-- Analista Acâdemico – 2 Anos (1 Ano e 6 Meses).
+- Analista Acâdemico (1 Ano e 6 Meses).
 <br>
 
 🎓 Formação Acadêmica
